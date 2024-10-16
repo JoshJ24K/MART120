@@ -1,0 +1,11 @@
+.blueColor {
+    color: blue;
+    font-family: arial;
+    font-size: 24px;
+  }
+  
+  span.blueColor {
+    color: blue;
+    font-family: arial;
+    font-size: 24px;
+  }
